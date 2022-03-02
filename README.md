@@ -1,4 +1,4 @@
-# Hi there 👋, I am Angelo and Welcome to my git page 
+# Hi there 👋, I am Angelo and Welcome 
 
 
 **Ningthangom/Ningthangom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
