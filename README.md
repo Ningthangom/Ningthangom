@@ -1,4 +1,4 @@
-# Hi there, I'm Ningthangom - aka [angelo][website] 👋 
+# Hi there, I'm Ningthangom - aka [Angelo][website] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -107,7 +107,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://angelo101.netlify.app/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
