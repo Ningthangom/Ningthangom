@@ -13,7 +13,7 @@
 ## I'm a student, musician, farmer, full stack developer!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning TypeScript🤣
+- 🌱 I’m currently learning TypeScript😎
 - 👯 I’m looking to collaborate with other full stack JavaScript Developers
 - 🥅 2022 Goals: Learn more about full stack mobile app development
 - ⚡ Fun fact: I love to play guitar, sing and have bbq with friends and family
@@ -23,13 +23,13 @@
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 <!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 <!-- [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
