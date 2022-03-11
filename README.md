@@ -62,16 +62,16 @@
 <br />
 <br />
 
----
+<!-- ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
-- [NEW: How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - v2.0.0](https://www.youtube.com/watch?v=quGdJweadFM)
+<!-- - [NEW: How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - v2.0.0](https://www.youtube.com/watch?v=quGdJweadFM)
 - [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
 - [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
 - [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
+- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw) -->
 <!-- YOUTUBE:END -->
 <!-- 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -112,13 +112,14 @@
 
 </details>
 
-[website]: https://angelo101.netlify.app/
-<!-- [course]: http://vsCodeHero.com
+<!-- [website]: https://angelo101.netlify.app/
+[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
