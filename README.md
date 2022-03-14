@@ -46,12 +46,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/windows/terminal/) -->
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px; margin: 10px;"/>](https://docs.microsoft.com/en-us/windows/terminal/)
 [<img align="left" alt="styled-component" width="26px" src="./img/style_component_logo.svg" style="padding-right:10px;margin: 10px;" />](https://styled-components.com/)
-
- 
 <br />
-
-  --- 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
