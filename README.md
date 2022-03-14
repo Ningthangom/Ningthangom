@@ -19,7 +19,6 @@
 [![website](./img/globe-light.svg)]( https://angelo101.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)]( https://angelo101.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ningthangom-shwebeth-angelo-709b45123/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ningthangom-shwebeth-angelo-709b45123/#gh-dark-mode-only)
 
