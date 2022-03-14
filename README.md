@@ -46,6 +46,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img align="left" alt="styled-component" width="26px" src="./img/style_component_logo.svg" />](https://styled-components.com/)
 
 <br />
 <br />
