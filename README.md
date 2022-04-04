@@ -10,7 +10,7 @@
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning TypeScript😎
 - 👯 I’m looking to collaborate with other full stack JavaScript Developers
-- 🥅 2022 Goals: Learn more about full stack mobile app development
+- 🥅 2022 Goals: get a developer job
 - ⚡ Fun fact: I love to play guitar, sing and have bbq with friends and family
 
 
